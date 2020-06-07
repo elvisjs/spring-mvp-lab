@@ -1,11 +1,9 @@
 # Mozilia MVP LAB
 
-
 ## Summary
 > One line summary of the MVP.* 
 
 A web UI framework in pure wasm
-
 
 ## Desc
 > Description of the product: What will the MVP be in 8 weeks? *
@@ -16,7 +14,6 @@ This UI framework can write web pages in both rust and javascript, we currently 
 + rust(wasm) component package manager
 + An official website developed by our lib
 
-
 ## Awesome
 > Why does your idea matter: How will it help deliver on the full promise of the internet, or make the internet more awesome? *
 
@@ -24,7 +21,6 @@ Our web UI framework is implemented in wasm, it's faster than vue for 2~3 times 
 
 + People can choose to write web pages in wasm with both rust and javascript
 + If you want to use our library with javascript,  it's like dart, no HTML nor CSS nor JSX.
-
 
 ## Users
 > Who are your users or potential users? *
@@ -37,7 +33,6 @@ We focus to solve the web development experience for backend developers and newb
   + They can use some sepcified component from our libraray
 
 ## Personal connection
-
 > What is your personal connection to the service & the user group you are planning to reach with your product? *
 
 We currently have little idea about this.
@@ -55,6 +50,32 @@ We have rich experience in rust and Golang and we utilize static programming lan
 
 After talking with developers around us, many backend developers also have the same puzzles, and the frontend developers like the wasm idea, so we decide to make it happen.
 
+## Work Plan
+
+Competitors
+
+Yew and Seed are our competitors, 
+
+For Yew, we support writing web pages in pure rust or dart-style(no html, no css, no jsx) javascript, the develop efficiency and experience will be better than nesting html/css in our code.
+
+For Seed, we port our lib to javascript developers who are the mainly developers of web pages.
+
+Milestons
+
+First 2 week development milestone:
+
++ Write toolkits for rust developers.
++ Clean the code for production.
+
+Second 2 week milestone:
+
++ Ask 100 developers to try our library
++ Start Migrating Material Design to our library
+
+We currently have milestone after 4 week, it depends on the result of the first 4 week.
+
+
+
 ## Teammates
 > Are you looking for any teammates? If so, please indicate what skills or roles you seek.
 
@@ -63,9 +84,7 @@ We need teammates who:
 + Have the knowledge of both frontend and wasm(Developer)
 + Have good English reading and writing skills including video editing(Marketing Specialist)
 
-
 ## Work Plan
-
 > Describe your work plan. *
 
 ## Chanllenges
