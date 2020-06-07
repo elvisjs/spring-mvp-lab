@@ -1,4 +1,4 @@
-# Mozilia MVP LAB
+# Mozilla MVP Lab
 
 ## Summary
 > One line summary of the MVP.* 
@@ -12,14 +12,14 @@ A web UI framework in pure wasm
 This UI framework can write web pages in both rust and javascript, we currently support the basic web components listed in MDN, in the 8 weeks, we plan to implement:
 
 + A port of basic Material Design
-+ rust(wasm) component package manager
++ Rust(wasm) component package manager
 + An official website developed by our lib
 
 
 ## Awesome
 > Why does your idea matter: How will it help deliver on the full promise of the internet, or make the internet more awesome? *
 
-Our web UI framework is implemented in wasm, it's faster than vue for 2~3 times and react for 6~8 times for now.
+Our web UI framework is implemented in pure wasm, it's faster than vue for 2~3 times and react for 6~8 times for now.
 
 + People can choose to write web pages in wasm with both rust and javascript
 + If you want to use our library with javascript,  it's like dart, no HTML nor CSS nor JSX.
@@ -41,7 +41,7 @@ We focus to solve the web development experience for backend developers and newb
 We currently have little idea about this.
 
 + Develop websites with our library for public service for free.
-+ We are members of a large rust community in China, lots of rust developers in that community seems like to try our library.
++ We are members of a large rust community in China, lots of rust developers in that community try to apply rust to front domain dev. Our library would be a good choice for them.
 + We'd like to hold a contest for developing web pages with our library.
 
 
