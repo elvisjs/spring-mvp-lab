@@ -5,6 +5,7 @@
 
 A web UI framework in pure wasm
 
+
 ## Desc
 > Description of the product: What will the MVP be in 8 weeks? *
 
@@ -14,6 +15,7 @@ This UI framework can write web pages in both rust and javascript, we currently 
 + rust(wasm) component package manager
 + An official website developed by our lib
 
+
 ## Awesome
 > Why does your idea matter: How will it help deliver on the full promise of the internet, or make the internet more awesome? *
 
@@ -21,6 +23,7 @@ Our web UI framework is implemented in wasm, it's faster than vue for 2~3 times 
 
 + People can choose to write web pages in wasm with both rust and javascript
 + If you want to use our library with javascript,  it's like dart, no HTML nor CSS nor JSX.
+
 
 ## Users
 > Who are your users or potential users? *
@@ -41,6 +44,7 @@ We currently have little idea about this.
 + We are members of a large rust community in China, lots of rust developers in that community seems like to try our library.
 + We'd like to hold a contest for developing web pages with our library.
 
+
 ## Idea
 > Why did you pick this idea? Do you have domain expertise? How do you know people need what you’re building? *
 
@@ -50,7 +54,18 @@ We have rich experience in rust and Golang and we utilize static programming lan
 
 After talking with developers around us, many backend developers also have the same puzzles, and the frontend developers like the wasm idea, so we decide to make it happen.
 
+
+## Teammates
+> Are you looking for any teammates? If so, please indicate what skills or roles you seek.
+
+We need teammates who:
+
++ Have the knowledge of both frontend and wasm(Developer)
++ Have good English reading and writing skills including video editing(Marketing Specialist)
+
+
 ## Work Plan
+> Describe your work plan. *
 
 Competitors
 
@@ -75,22 +90,20 @@ Second 2 week milestone:
 We currently have milestone after 4 week, it depends on the result of the first 4 week.
 
 
+## Links to mockups, prototypes, pitches.
 
-## Teammates
-> Are you looking for any teammates? If so, please indicate what skills or roles you seek.
++ https://github.com/elvisjs/elvis - The core rust library of elvisjs
++ https://github.com/elvisjs/calling-elvis - Standardize elvis wasm exports for typescript and javascript.
++ https://github.com/elvisjs/elvis-cli - Cli for elvis apps, actually a webpack plugin, depends on webpack-dev-server.
++ https://github.com/elvisjs/create-elvis-app - Scaffold for creating elvis app.
++ https://github.com/elvisjs/the-elvis-book - The handbook for elvisjs
 
-We need teammates who:
-
-+ Have the knowledge of both frontend and wasm(Developer)
-+ Have good English reading and writing skills including video editing(Marketing Specialist)
-
-## Work Plan
-> Describe your work plan. *
 
 ## Chanllenges
 > What challenges do you anticipate with this idea? *
 
 The wasm-bindgen repo which we currently depend on is not stable for now, API maybe changing all the time, we have to update our design frequently, but at the same time, we will contribute to wasm-bindgen to make the ecosystem of wasm bigger and stronger.
+
 
 ## Details
 > Team Details *
@@ -100,15 +113,18 @@ clearloop, has experience with react and flutter, currently focus on rust, the o
 
 bear, who loves rust and Golang to hack backend tools in daily life, work in a blockchain minor kernel cita in recent years，which helps enterprise setup private chains from scratch and build the business.
 
+
 ## 8 weeks
 > Will all team members be committing their full-time energy to this project during the 8 weeks of the program? Not all successful MVP applicants will, but we do expect a major commitment to the MVP Lab. Please explain if you’re not able to commit fulltime to this & how we can be sure this will be a very serious commitment by you and your team *
 We have a plan to contribute to open source projects for full-time energy, but we both have jobs for now.
 
 The project prototype has already developed, all we need to do is upgrading the project to the new design and write more components based on the current framework.
 
+
 ## Hear
 > How did you hear about the MVP Lab? *
 We have a rust community in China, people recommend us to join MVP Lab.
+
 
 ## Should know
 > Anything else we should know? *
