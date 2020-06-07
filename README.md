@@ -36,17 +36,15 @@ We focus to solve the web development experience for backend developers and newb
 + Web developers need better performance in their web APPs
   + They can use some sepcified component from our libraray
 
-
 ## Personal connection
 
 > What is your personal connection to the service & the user group you are planning to reach with your product? *
 
+We currently have little idea about this.
 
-## Work on
-> If we do not fund this project, will your team still work on it? To what extent? *
-
-We will work on it also, but it will cost more times because we really need some outside supports now, to prove this project is meaningful and to encourage us working harder, for the next chapter of the internet.
-
++ Develop websites with our library for public service for free.
++ We are members of a large rust community in China, lots of rust developers in that community seems like to try our library.
++ We'd like to hold a contest for developing web pages with our library.
 
 ## Idea
 > Why did you pick this idea? Do you have domain expertise? How do you know people need what you’re building? *
@@ -56,8 +54,6 @@ Our team is composed of a full-stack developer and a backend developer, we'd lik
 We have rich experience in rust and Golang and we utilize static programming language to empower js web development experience.
 
 After talking with developers around us, many backend developers also have the same puzzles, and the frontend developers like the wasm idea, so we decide to make it happen.
-
-
 
 ## Teammates
 > Are you looking for any teammates? If so, please indicate what skills or roles you seek.
@@ -77,8 +73,6 @@ We need teammates who:
 
 The wasm-bindgen repo which we currently depend on is not stable for now, API maybe changing all the time, we have to update our design frequently, but at the same time, we will contribute to wasm-bindgen to make the ecosystem of wasm bigger and stronger.
 
-
-
 ## Details
 > Team Details *
 Here are two teammates in our team, all of us are blockchain developers.
@@ -87,20 +81,15 @@ clearloop, has experience with react and flutter, currently focus on rust, the o
 
 bear, who loves rust and Golang to hack backend tools in daily life, work in a blockchain minor kernel cita in recent years，which helps enterprise setup private chains from scratch and build the business.
 
-
-
 ## 8 weeks
 > Will all team members be committing their full-time energy to this project during the 8 weeks of the program? Not all successful MVP applicants will, but we do expect a major commitment to the MVP Lab. Please explain if you’re not able to commit fulltime to this & how we can be sure this will be a very serious commitment by you and your team *
 We have a plan to contribute to open source projects for full-time energy, but we both have jobs for now.
 
 The project prototype has already developed, all we need to do is upgrading the project to the new design and write more components based on the current framework.
 
-
-
 ## Hear
 > How did you hear about the MVP Lab? *
 We have a rust community in China, people recommend us to join MVP Lab.
-
 
 ## Should know
 > Anything else we should know? *
